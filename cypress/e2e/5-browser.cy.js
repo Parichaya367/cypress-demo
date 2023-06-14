@@ -21,6 +21,6 @@ describe('Browser command', () => {
 
 		cy.viewport('samsung-s10', 'portrait')
 
-		cy.pause(10)
+		//cy.pause(10)
 	})
 })
